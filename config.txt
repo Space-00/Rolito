@@ -1,4 +1,3 @@
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.93.138:80?security=none&type=ws&host=us3.rtacg.com&path=/#👉 🆔 @v2ray_configs_pool`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.211.102:2052?type=ws&host=bPBG.168168.US.kg&path=/ss9zqsqXVf9iMiSq/cHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560#👉 🆔 @v2ray_configs_pool`
 vless://Mahanvpn-mtnn-mcci1@172.67.204.84:2052?path=%2F%3Fed%3D2083&security=none&encryption=none&host=sYstEmShoP.MaHaNmRz.ToP.&type=ws#👉 🆔 @v2ray_configs_pool`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.175:443?security=tls&sni=jpg.ylks01.eu.org&type=ws&path=%2F%3Fproxyip#👉 🆔 @v2ray_configs_pool`
@@ -98,3 +97,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.211.102:2052?type=ws&host=bP
 vless://Mahanvpn-mtnn-mcci1@172.67.204.84:2052?path=%2F%3Fed%3D2083&security=none&encryption=none&host=sYstEmShoP.MaHaNmRz.ToP.&type=ws#👉 🆔 @v2ray_configs_pool`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.175:443?security=tls&sni=jpg.ylks01.eu.org&type=ws&path=%2F%3Fproxyip#👉 🆔 @v2ray_configs_pool`
 vless://788a5b94-583a-4b71-d63c-0b5f9aae2dfe@80.249.113.29:20038?security=none&encryption=none&host=Webmail.yjc.ir&headerType=http&type=tcp#👉 🆔 @v2ray_configs_pool`
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.65.205.194:8443?security=tls&sni=BPBG.168168.Us.KG&type=ws&host=bPBg.168168.uS.kG&fp=chrome&alpn=h2,http/1.1#👉 🆔 @v2ray_configs_pool`
