@@ -1,7 +1,3 @@
-vless://898f32d3-e44d-460f-a920-1221338f40fd@104.16.11.133:8080?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8080&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
-vless://898f32d3-e44d-460f-a920-1221338f40fd@104.16.11.133:8080?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8080&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2FKz7tn46K3QAyKCMy%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#❣️ @v2ray_configs_pool ❣️`
-vless://Telegram-ipV2Ray-zao@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#❣️ @v2ray_configs_pool ❣️`
 vless://4073ac4a-5c86-4190-bfc1-5461e4ecf46a@104.16.11.133:8880?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8880&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
 vless://9a336a42-35eb-4827-b897-fbc115c4c887@188.245.33.245:443?security=tls&encryption=none&headerType=none&type=tcp&sni=zula.ir#❣️ @v2ray_configs_pool ❣️`
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
@@ -17,10 +13,8 @@ vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bVBhS00ycHZLRkpGaHFkOVk3TXlz@195.2.76.71:60422#❣️ @v2ray_configs_pool ❣️`
 vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#❣️ @v2ray_configs_pool ❣️`
-vless://898f32d3-e44d-460f-a920-1221338f40fd@104.16.11.133:8080?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8080&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
-vless://898f32d3-e44d-460f-a920-1221338f40fd@104.16.11.133:8080?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8080&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2FKz7tn46K3QAyKCMy%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#❣️ @v2ray_configs_pool ❣️`
-vless://Telegram-ipV2Ray-zao@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
 vless://4073ac4a-5c86-4190-bfc1-5461e4ecf46a@104.16.11.133:8880?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8880&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
 vless://9a336a42-35eb-4827-b897-fbc115c4c887@188.245.33.245:443?security=tls&encryption=none&headerType=none&type=tcp&sni=zula.ir#❣️ @v2ray_configs_pool ❣️`
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
@@ -36,8 +30,8 @@ vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bVBhS00ycHZLRkpGaHFkOVk3TXlz@195.2.76.71:60422#❣️ @v2ray_configs_pool ❣️`
 vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#❣️ @v2ray_configs_pool ❣️`
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2FKz7tn46K3QAyKCMy%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#❣️ @v2ray_configs_pool ❣️`
-vless://Telegram-ipV2Ray-zao@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
 vless://4073ac4a-5c86-4190-bfc1-5461e4ecf46a@104.16.11.133:8880?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8880&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
 vless://9a336a42-35eb-4827-b897-fbc115c4c887@188.245.33.245:443?security=tls&encryption=none&headerType=none&type=tcp&sni=zula.ir#❣️ @v2ray_configs_pool ❣️`
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
@@ -53,8 +47,8 @@ vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bVBhS00ycHZLRkpGaHFkOVk3TXlz@195.2.76.71:60422#❣️ @v2ray_configs_pool ❣️`
 vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#❣️ @v2ray_configs_pool ❣️`
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2FKz7tn46K3QAyKCMy%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#❣️ @v2ray_configs_pool ❣️`
-vless://Telegram-ipV2Ray-zao@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
 vless://4073ac4a-5c86-4190-bfc1-5461e4ecf46a@104.16.11.133:8880?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8880&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
 vless://9a336a42-35eb-4827-b897-fbc115c4c887@188.245.33.245:443?security=tls&encryption=none&headerType=none&type=tcp&sni=zula.ir#❣️ @v2ray_configs_pool ❣️`
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
@@ -70,8 +64,8 @@ vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bVBhS00ycHZLRkpGaHFkOVk3TXlz@195.2.76.71:60422#❣️ @v2ray_configs_pool ❣️`
 vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#❣️ @v2ray_configs_pool ❣️`
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2FKz7tn46K3QAyKCMy%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#❣️ @v2ray_configs_pool ❣️`
-vless://Telegram-ipV2Ray-zao@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
 vless://4073ac4a-5c86-4190-bfc1-5461e4ecf46a@104.16.11.133:8880?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8880&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
 vless://9a336a42-35eb-4827-b897-fbc115c4c887@188.245.33.245:443?security=tls&encryption=none&headerType=none&type=tcp&sni=zula.ir#❣️ @v2ray_configs_pool ❣️`
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
@@ -87,8 +81,8 @@ vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bVBhS00ycHZLRkpGaHFkOVk3TXlz@195.2.76.71:60422#❣️ @v2ray_configs_pool ❣️`
 vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#❣️ @v2ray_configs_pool ❣️`
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2FKz7tn46K3QAyKCMy%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#❣️ @v2ray_configs_pool ❣️`
-vless://Telegram-ipV2Ray-zao@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=ws#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
+vless://3db0b4b5-cec9-4d5c-8bea-a083352af005@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2,http/1.1&host=fr-full.privateip.net&fp=random&type=ws&sni=fr-full.privateip.net#❣️ @v2ray_configs_pool ❣️`
 vless://4073ac4a-5c86-4190-bfc1-5461e4ecf46a@104.16.11.133:8880?type=ws&path=Telegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%2CTelegram-Netpie%3Fed%3D8880&host=NetPie.1.91aa41c9-7223-47ab-97f6-3130beef3b8d.www.speedtest.net.de.debian.org.NetPie.Tech.&security=none#❣️ @v2ray_configs_pool ❣️`
 vless://9a336a42-35eb-4827-b897-fbc115c4c887@188.245.33.245:443?security=tls&encryption=none&headerType=none&type=tcp&sni=zula.ir#❣️ @v2ray_configs_pool ❣️`
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
@@ -98,3 +92,9 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&secu
 vless://f6b4ac7f-75a8-48ed-b2fd-06662b0a3955@93.123.17.136:80?path=%2F&security=none&encryption=none&host=raimonchannel.com&type=ws#❣️ @v2ray_configs_pool ❣️`
 vless://2bc52ef3-3fa2-4830-b36c-135476ad9463@91.217.119.22:48054?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#❣️ @v2ray_configs_pool ❣️`
 vless://0c6b1c34-3ab0-408e-aa4b-49c7c7ac72bb@45.8.21.119:12345?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#❣️ @v2ray_configs_pool ❣️`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bVBhS00ycHZLRkpGaHFkOVk3TXlz@195.2.76.71:60422#❣️ @v2ray_configs_pool ❣️`
+vless://2bc52ef3-3fa2-4830-b36c-135476ad9463@91.217.119.22:48054?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#❣️ @v2ray_configs_pool ❣️`
+vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bVBhS00ycHZLRkpGaHFkOVk3TXlz@195.2.76.71:60422#❣️ @v2ray_configs_pool ❣️`
+vless://b642e82c-b721-43bc-8602-0241cc4a3933@87.242.118.69:7777?path=%2F&security=none&encryption=none&type=ws#❣️ @v2ray_configs_pool ❣️`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#❣️ @v2ray_configs_pool ❣️`
