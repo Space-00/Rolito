@@ -10,5 +10,5 @@ https://raw.githubusercontent.com/Space-00/V2ray_collector/main/config.txt
 
 
 
-#Updates
+# Updates
 --------------------
