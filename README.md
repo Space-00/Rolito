@@ -10,5 +10,9 @@ https://raw.githubusercontent.com/Space-00/V2ray_collector/main/config.txt
 
 
 
-## **Updates**
+**Updates**
 --------------------
+
+7/28/2024 Update:
+
+from now on there won't be any repeated config
