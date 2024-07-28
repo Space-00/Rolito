@@ -4,6 +4,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 import html2text
+import subprocess
 
 class TeleScraper:
     def __init__(self, channel_url):
@@ -79,6 +80,10 @@ class TeleScraper:
         self.clear_screen()
         print(f"Scraped {len(self.configs)} valid configs from {self.channel_url}")
         print("Configs have been saved to config.txt")
+        
+        # Run check.py to remove duplicates
+        subprocess.run(['python', 'check.py'], check=True)
+        print("Duplicate configs have been removed.")
 
 if __name__ == '__main__':
     channel_url = 'https://t.me/s/v2ray_configs_pool'
