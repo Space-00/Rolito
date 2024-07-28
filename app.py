@@ -13,7 +13,7 @@ class TeleScraper:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
         self.post_count = 0
-        self.configs = []
+        self.configs = set()  # Changed to a set to automatically handle duplicates
 
     def clear_screen(self):
         os.system('cls' if os.name == 'nt' else 'clear')
@@ -57,7 +57,7 @@ class TeleScraper:
                     if content_elem:
                         content = self.html_to_text(str(content_elem))
                         if self.is_valid_config(content):
-                            self.configs.append(content)
+                            self.configs.add(content)  # Add to set instead of list
                             self.post_count += 1
                             if len(self.configs) >= 100:
                                 break
@@ -77,7 +77,7 @@ class TeleScraper:
         self.fetch_configs()
         self.save_configs()
         self.clear_screen()
-        print(f"Scraped {len(self.configs)} valid configs from {self.channel_url}")
+        print(f"Scraped {len(self.configs)} unique valid configs from {self.channel_url}")
         print("Configs have been saved to config.txt")
 
 if __name__ == '__main__':
