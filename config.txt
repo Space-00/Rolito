@@ -1,4 +1,3 @@
-vless://DIgiV2RAY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&type=ws#💘 @v2ray_configs_pool 💘`
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@irancell.zafarinocrm.ir:80/?type=ws&encryption=none&host=2.fruitsstore.ir&path=%2F#💘 @v2ray_configs_pool 💘`
 vmess://eyJhZGQiOiAiaGlkZDIuYWZzaGFyaWRlbXBpcmUudWsiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiaGlkZDIuYWZzaGFyaWRlbXBpcmUudWsiLCAiaWQiOiAiMTljODBjZTktMDkzNS00MWI5LWIwNzctMjc3NjIxMzE2YTg3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saVV4VUdKVEdvUGpkMDd1aTczTFpnd3g4cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAic25pIjogImhpZGQyLmFmc2hhcmlkZW1waXJlLnVrIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM5OCBAdjJyYXlfY29uZmlnc19wb29sIFx1ZDgzZFx1ZGM5OCJ9`
 vless://097ab42d-c4dd-4a69-9b4b-92f0da96299e@137.74.66.90:57254/?encryption=none&host=speedtest.net&type=tcp&headerType=http#💘 @v2ray_configs_pool 💘`
@@ -6,3 +5,7 @@ vmess://eyJhZGQiOiAiMTcyLjY3LjE1OS4yMzIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vless://aa9e4f20-f7f3-46cc-96f3-897116755cf3@104.18.1.84:443/?type=ws&encryption=none&host=worker-jolly-block-2e78.gamal32324.workers.Dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=worker-jolly-block-2e78.gamal32324.workers.Dev&fp=chrome#💘 @v2ray_configs_pool 💘`
 vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@www.speedtest.net:2095?path=%2F&security=none&encryption=none=/@mehrosaboran#💘 @v2ray_configs_pool 💘`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTnZDTkFsYWdQV2RxMnBWeXRSRUZS@138.68.182.23:2248/?outline=1#💘 @v2ray_configs_pool 💘`
+vless://DIgiV2RAY@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#💘 @v2ray_configs_pool 💘`
+vless://DIgiV2RAY@payphone.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&type=ws#💘 @v2ray_configs_pool 💘`
+vless://DIgiV2RAY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&type=ws#💘 @v2ray_configs_pool 💘`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTXh0c3RXaXlIY05LNkF2TW5odFBu@vienna.telegavpn.com:61992#💘 @v2ray_configs_pool 💘`
