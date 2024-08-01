@@ -1,7 +1,3 @@
-vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=%2F&host=v16.New6server.ir&sni=v16.New6server.ir&fp=#💘 @v2ray_configs_pool 💘`
-vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=%2F&host=v17.New6server.ir&sni=v17.New6server.ir&fp=#💘 @v2ray_configs_pool 💘`
-vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=%2F&host=v18.New6server.ir&sni=v18.New6server.ir&fp=#💘 @v2ray_configs_pool 💘`
-vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=%2F&host=v19.New6server.ir&sni=v19.New6server.ir&fp=#💘 @v2ray_configs_pool 💘`
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=%2F&host=v20.New6server.ir&sni=v20.New6server.ir&fp=#💘 @v2ray_configs_pool 💘`
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V01.SiMansaNaT.Ir.#💘 @v2ray_configs_pool 💘`
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:2083?security=tls&type=ws&headerType=&path=%2F&host=v07.New6server.ir&sni=v07.New6server.ir&fp=chrome#💘 @v2ray_configs_pool 💘`
@@ -15,3 +11,7 @@ vless://DIGiV2RAY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&enc
 vless://DIGiV2RAY@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#💘 @v2ray_configs_pool 💘`
 vless://74d65109-72c3-4bb8-8aca-eaf6dd7878a5@zula.ir:8080?security=none&type=httpupgrade&headerType=&path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9C%8B%E5%95%A5%E4%BA%8B%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.mogrenspore.nl#💘 @v2ray_configs_pool 💘`
 vless://74d65109-72c3-4bb8-8aca-eaf6dd7878a5@zula.ir:8880?security=none&type=httpupgrade&headerType=&path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9C%8B%E5%95%A5%E4%BA%8B%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.hoursebe.monster#💘 @v2ray_configs_pool 💘`
+vless://TELEGRAM-NUFiLTER@www.speedtest.net:8080?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&security=none&encryption=none&host=khodamam.bklink.iR.&type=splithttp#💘 @v2ray_configs_pool 💘`
+vless://TELEGRAM-NUFiLTER@www.speedtest.net:2095?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=none&encryption=none&host=emshab.bklink.iR.&type=httpupgrade#💘 @v2ray_configs_pool 💘`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMGkyV3hNQlQ2MzdsTnVvdHV0Um9y@167.99.216.236:50250/?outline=1#💘 @v2ray_configs_pool 💘`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#💘 @v2ray_configs_pool 💘`
