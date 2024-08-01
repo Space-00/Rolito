@@ -1,3 +1,8 @@
-vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@104.21.12.212:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t-netplus1.pages.dev&fp=chrome&type=ws&sni=t-netplus1.pages.dev#💘 @v2ray_configs_pool 💘`
-vless://a0508103-40e5-4303-b508-ac84dc6767d9@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc30.servernet.fun.&type=ws#💘 @v2ray_configs_pool 💘`
-vless://90a93a20-1f02-46fb-814a-9abaaeaf7616@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc33.servernet.fun.&type=ws#💘 @v2ray_configs_pool 💘`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘`
+vless://2c2feeaf-a354-48d3-91b6-2af198e0941d@141.148.207.30:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=djdownloadin.xn--4gq62f52gopi49k.com#💘 @v2ray_configs_pool 💘`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘`
+vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=httpupgrade#💘 @v2ray_configs_pool 💘`
+vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@www.parspack.com:2095?path=%2F&security=none&encryption=none&host=upgRade.goOgle.cOm.www.spEedtest.net.www.sPeedtest.net.piNocchio1.iR.&type=httpupgrade#💘 @v2ray_configs_pool 💘`
+vless://2c2feeaf-a354-48d3-91b6-2af198e0941d@141.148.207.30:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=djdownloadin.xn4gq62f52gopi49k.com#💘 @v2ray_configs_pool 💘`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#💘 @v2ray_configs_pool 💘`
