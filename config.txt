@@ -1,15 +1,9 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.163.76.245:443?path=%2F&security=tls&encryption=none&type=ws&sni=xs.ylks.xyz#💘 @v2ray_configs_pool 💘`
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?path=%2Fhttp&security=none&encryption=none&type=ws#💘 @v2ray_configs_pool 💘`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.98:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.145.134.230:443?path=%2Fpai6buclahf9cxx3%3Fed&security=tls&encryption=none&type=ws&sni=vs.ylks.xyz#💘 @v2ray_configs_pool 💘`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.37:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.159.218.51:443?path=%2F&security=tls&encryption=none&type=ws&sni=vs.ylks.xyz#💘 @v2ray_configs_pool 💘`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.234:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=hs.ylks.xyz#💘 @v2ray_configs_pool 💘`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.189:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.216:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#💘 @v2ray_configs_pool 💘`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.107.234:53780?path=%2F&security=tls&encryption=none&type=ws&sni=hs.ylks.xyz#💘 @v2ray_configs_pool 💘`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ks.ylks.xyz#💘 @v2ray_configs_pool 💘`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#💘 @v2ray_configs_pool 💘`
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.178:989#💘 @v2ray_configs_pool 💘`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#💘 @v2ray_configs_pool 💘`
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-4gk.pages.dev:8443?path=%2FYH0qeiAFcfmP8p88%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOinmAhdisErVeR-4Gk.PaGes.dEv&fp=randomized&type=ws&sni=JOINMAhDiseRvER-4gk.Pages.DEV#💘 @v2ray_configs_pool 💘`
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-4gk.pages.dev:2053?path=%2Fgbhdx8eyjUHHJ8Hx%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=joinmAhdIseRVer-4gK.paGES.DEv&fp=randomized&type=ws&sni=JoiNmAhDISeRVER-4GK.pagEs.DEV#💘 @v2ray_configs_pool 💘`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘`
+vless://7396dffc-ed85-482a-9caa-f5e04a6398df@www.speedtest.net:80?path=%2Fdashboard%3Fed%3D2048&security=none&encryption=none&host=Ifyiddnejejejddjdid.Ftp3.2debian.org.www.speedtest.net.Asve.Dash.Servicequry.Ir.&type=ws#💘 @v2ray_configs_pool 💘`
+ss://YWVzLTI1Ni1nY206WWYzMmE3M2czQ3Mzb0VOSA==@62.106.66.133:8388#💘 @v2ray_configs_pool 💘`
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?path=%2F&security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V02.SiMansaNaT.Ir.&type=ws#💘 @v2ray_configs_pool 💘`
+vmess://eyJhZGQiOiAiMTA0LjIwLjc0LjkxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRsMi4xMjcuMC4wLjEuXHUwNDMyXHUwNDNlXHUwNDQxXHUwNDQyXHUwNDM1XHUwNDM5Y29udHJvbC5cdTYzYTdcdTUyMzYua1x1MDQzZVx1MDQzZFx1MDQ0Mlx1MDQ0MFx1MDQzZVx1MDQzYlx1MDQ0Y1x1OGZiMlx1OTA1NFx1NjFmMlx1N2Y3MC5jXHUwNDMyXHUwNDNlXHUwNDM0XHUwNDNhXHUwNDMwaFx1MDQzZS53b25rYWNhcGl0YW5vLmJ1enouIiwgImlkIjogImIyNDEzYTVhLWQ1ZDAtNDQ0Ny1iNmQ3LTZkYmNkMjk4OWEzNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICI4MCIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM5OCBAdjJyYXlfY29uZmlnc19wb29sIFx1ZDgzZFx1ZGM5OCJ9`
+vless://a2867a75-d50c-4c09-830a-5f5e858ad825@185.146.173.185:2052?path=%2Fseyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmtxmplus%3Fed%3D1024&security=none&encryption=none&host=google1.itcenter.bloG&type=httpupgrade#💘 @v2ray_configs_pool 💘`
+vless://feaf30f7-a311-48b5-a657-a0fd2d657010@alex.vpnxhub.xyz:443?type=ws&path=%2F&host=&security=tls&fp=&alpn=&sni=@mr_alex_id#💘 @v2ray_configs_pool 💘`
