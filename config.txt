@@ -1,13 +1,3 @@
-trojan://bacabac-abca-caba-dabc-cccaaacbbabb@127.0.0.1:1080?security=tls&headerType=none&type=tcp#💘 @v2ray_configs_pool 💘`
-vless://b3f2f7ce-04a2-4d48-838c-c60676ac4865@193.151.153.222:59192?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#💘 @v2ray_configs_pool 💘`
-vless://ca3a861b-bdc5-5d5d-41ab-3258aada40a4@81.12.92.158:15269?security=none&encryption=none&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘`
-vless://ee8c0fc4-e798-420c-a789-8ca2ebeab6a7@178.239.156.231:443?security=none&encryption=none&headerType=none&type=tcp#💘 @v2ray_configs_pool 💘`
-vless://ca3a861b-bdc5-5d5d-41ab-3258aada40a4@81.12.92.141:15761?security=none&encryption=none&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘`
-vless://2f6bfff5-8060-40e6-9a4f-9073ee2757be@185.228.236.63:8080?path=%2F&security=none&encryption=none&type=ws#💘 @v2ray_configs_pool 💘`
-vless://ca3a861b-bdc5-5d5d-41ab-3258aada40a4@81.12.92.157:15121?security=none&encryption=none&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NjBkQlFHdkM3ckZGSjJtYU5qazc2@136.244.81.170:20888#💘 @v2ray_configs_pool 💘`
-ss://Y2hhY2hhMjAtcG9seTEzMDU6YThidDlmWTBRc0xTNmVMblhVZTBZbQ==@45.158.171.138:8080#💘 @v2ray_configs_pool 💘`
-ss://Y2hhY2hhMjAtcG9seTEzMDU6YThidDlmWTBRc0xTNmVMblhVZTBZbQ==@45.158.171.148:8080#💘 @v2ray_configs_pool 💘`
 ss://Y2hhY2hhMjAtcG9seTEzMDU6YThidDlmWTBRc0xTNmVMblhVZTBZbQ==@45.158.171.141:8080#💘 @v2ray_configs_pool 💘`
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04tLVpFRE1PREVPTi0tWkVETU9ERU9O@45.145.42.70:25367#💘 @v2ray_configs_pool 💘`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbFhvcDBiVWVBNkFienlOZEY5dG5s@81.19.141.45:52873#💘 @v2ray_configs_pool 💘`
@@ -17,3 +7,10 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.1:80?path=%2F%3Fed%3D2048
 vless://DIGIV2RAY@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#💘 @v2ray_configs_pool 💘`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTm5yUEJha0R3SUNHeW94c0RjTHk1@185.65.202.99:49318#💘 @v2ray_configs_pool 💘`
 vless://DIGIV2RAY@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&type=ws#💘 @v2ray_configs_pool 💘`
+vless://345e72cf-f54f-4016-9daa-3fe236ec2c0d@84.47.232.100:8080?security=none&encryption=none&headerType=http&type=tcp#💘 @v2ray_configs_pool 💘`
+vless://Mainv2ray-Chanel@au.hosting-ip.com:8080?path=/Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit,Telegram-MainSecurit%3Fed%3D2096&security=none&encryption=none&host=WwW.speedteSt.net.kKkkKlllkokoWkfwofkfKfekoJg.IR.mralPha-vPn.COm&type=httpupgrade#💘 @v2ray_configs_pool 💘`
+vless://db9cdb8c-e827-410f-8fad-4f906000c9c2@mtech-ip-fast.shantiya1401.ir:2096?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=2096vless&sni=mtech-ip-fast.shantiya1401.ir#💘 @v2ray_configs_pool 💘`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOUU1JYTk5NWFaSU9jY2RRd204YkNY@138.68.182.23:2248/?outline=1#💘 @v2ray_configs_pool 💘`
+vless://9cec81e5-2ced-45c7-8289-dd7843f06053@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=split.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=splithttp#💘 @v2ray_configs_pool 💘`
+vless://07d562ea-f91f-4c9e-878f-b7bde8dc4143@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=httpupgrade#💘 @v2ray_configs_pool 💘`
+vless://Mahanvpn-MTN@185.176.26.240:8080?path=%2F%3Fed%3D2053&security=none&encryption=none&host=systEMGAME.mAHanTEAmvIPS.toP.&type=ws#💘 @v2ray_configs_pool 💘`
