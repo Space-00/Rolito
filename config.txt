@@ -1,19 +1,6 @@
-vmess://eyJhZGQiOiAiMTcyLjY3LjE2NC4xNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwgImlkIjogImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkZTBkIn0=`
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.132:18101?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍`
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.149:18224?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍`
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
+vless://SAVTEAM2@speedtest.net:443?path=%2F%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=SAV.TEAM&fp=firefox&type=ws&sni=speedtest.net#😍 @v2ray_configs_pool 😍`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
-vless://SAVTEAM2@speedtest.net:443?path=%2F%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=SAV.TEAM&fp=firefox&type=ws&sni=speedtest.net#😍 @v2ray_configs_pool 😍`
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:808#😍 @v2ray_configs_pool 😍`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@188.212.132.20:52952#😍 @v2ray_configs_pool 😍`
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8118#😍 @v2ray_configs_pool 😍`
-vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2F5fz4m1ggihzpkyya%3Fed%3D2560&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#😍 @v2ray_configs_pool 😍`
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzMS4xNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgImlkIjogIjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sIFx1ZDgzZFx1ZGUwZCJ9`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:811#😍 @v2ray_configs_pool 😍`
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2375#😍 @v2ray_configs_pool 😍`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUzhVSVpMd2t4UFlvbDNpOGZ6eERR@vienna.telegavpn.com:61992#😍 @v2ray_configs_pool 😍`
-vmess://eyJhZGQiOiAiMTg4LjExNC45OS4yMDUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRlMGQgQHYycmF5X2NvbmZpZ3NfcG9vbCBcdWQ4M2RcdWRlMGQifQ==`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
