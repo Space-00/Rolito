@@ -1,13 +1,19 @@
-vless://7ee1514d-b6f6-4ff5-bb05-0d4f6440f9cb@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&type=httpupgrade#😍 @v2ray_configs_pool 😍`
+vmess://eyJhZGQiOiAiMTcyLjY3LjE2NC4xNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwgImlkIjogImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTBkIEB2MnJheV9jb25maWdzX3Bvb2wgXHVkODNkXHVkZTBkIn0=`
+vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.132:18101?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍`
+vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.149:18224?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
-vless://da15f42a-2361-40df-82db-ea3f314ba978@79.175.151.95:44884?type=tcp&path=%2F&host=telewebion.com&headerType=http#😍 @v2ray_configs_pool 😍`
-vless://0a058ff1-21fd-4742-aecf-3d18052387b6@5.202.12.246:15640?security=none&encryption=none&headerType=none&type=tcp#😍 @v2ray_configs_pool 😍`
-vless://f07379c6-11a7-4baf-8101-acfeadb84844@188.121.121.12:8080?path=%2F&security=none&encryption=none&type=ws#😍 @v2ray_configs_pool 😍`
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.135:18755?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍`
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.141:18247?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍`
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.130:18357?security=none&encryption=none&headerType=http&type=tcp#😍 @v2ray_configs_pool 😍`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-2te.pages.dev:2053?path=%2FoerPYseJrSkqFvqY%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoInMahDisErVER-2te.pAGeS.deV&fp=randomized&type=ws&sni=joInmahDIServEr-2te.PAGEs.dEV#😍 @v2ray_configs_pool 😍`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-2te.pages.dev:8443?path=%2FXSPkQe2xm9R3OHya%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jOiNMAhdIServER-2tE.pAGes.dev&fp=randomized&type=ws&sni=joInMaHdIseRVEr-2te.PAgES.dEv#😍 @v2ray_configs_pool 😍`
-vless://f186877b-42a8-411b-8dbc-1d3e97119f4b@185.146.173.58:2095?path=%2Fservernett&security=none&encryption=none&host=dcc32.servernet.fun.&type=ws#😍 @v2ray_configs_pool 😍`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
+vless://SAVTEAM2@speedtest.net:443?path=%2F%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=SAV.TEAM&fp=firefox&type=ws&sni=speedtest.net#😍 @v2ray_configs_pool 😍`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#😍 @v2ray_configs_pool 😍`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:808#😍 @v2ray_configs_pool 😍`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@188.212.132.20:52952#😍 @v2ray_configs_pool 😍`
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8118#😍 @v2ray_configs_pool 😍`
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2F5fz4m1ggihzpkyya%3Fed%3D2560&security=tls&encryption=none&host=VFIvE-teLeGram.PAGEs.Dev&type=ws&sni=VFIvE-teLeGram.PAGEs.Dev#😍 @v2ray_configs_pool 😍`
+vmess://eyJhZGQiOiAiMTcyLjY3LjEzMS4xNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgImlkIjogIjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGUwZCBAdjJyYXlfY29uZmlnc19wb29sIFx1ZDgzZFx1ZGUwZCJ9`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:811#😍 @v2ray_configs_pool 😍`
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2375#😍 @v2ray_configs_pool 😍`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUzhVSVpMd2t4UFlvbDNpOGZ6eERR@vienna.telegavpn.com:61992#😍 @v2ray_configs_pool 😍`
 vmess://eyJhZGQiOiAiMTg4LjExNC45OS4yMDUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRlMGQgQHYycmF5X2NvbmZpZ3NfcG9vbCBcdWQ4M2RcdWRlMGQifQ==`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUGxMOE91ZUh2dUF1OGVDMVczZ25L@167.99.216.236:50250/?outline=1#😍 @v2ray_configs_pool 😍`
