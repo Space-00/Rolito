@@ -1,11 +1,16 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.21.225:443#😍 @v2ray_configs_pool 😍`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fraud.chase&type=ws#😍 @v2ray_configs_pool 😍`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fraud.chase&type=ws#😍 @v2ray_configs_pool 😍`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#😍 @v2ray_configs_pool 😍`
+ss://Y2hhY2hhMjAtcG9seTEzMDU6YThidDlmWTBRc0xTNmVMblhVZTBZbQ==@45.158.171.148:8080#😍 @v2ray_configs_pool 😍`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.43.160.218:443#😍 @v2ray_configs_pool 😍`
+vless://f0f2e7cd-e260-4d22-aca5-892b6099e898@51.89.224.97:15184?security=none&encryption=none&headerType=none&type=tcp#😍 @v2ray_configs_pool 😍`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNmRHVGNFMllONkRqRTB0aURyWmxW@85.159.230.44:52842#😍 @v2ray_configs_pool 😍`
+vless://c87be97d-4ab9-4989-a1d0-1ab312ac64eb@188.245.67.74:443?security=none&encryption=none&headerType=none&type=tcp#😍 @v2ray_configs_pool 😍`
 ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@45.145.42.70:25366#😍 @v2ray_configs_pool 😍`
-vless://f1ebe21f-19ed-4d1b-b446-962ed55ee4fd@104.18.202.232:443?path=%2F%40Gozargah_Azadi%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=MarGbAr3FasEd.PAgEs.Dev&fp=randomized&type=ws&sni=MARGbaR3fasEd.PAGes.DEv#😍 @v2ray_configs_pool 😍`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?path=%2F%40Gozargah_Azadi%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&fp=randomized&type=ws&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev#😍 @v2ray_configs_pool 😍`
-vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?path=%2F%40Gozargah_Azadi%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jAviDSHAH-ArIamEhR.PageS.deV&fp=randomized&type=ws&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV#😍 @v2ray_configs_pool 😍`
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?path=%2F%40Gozargah_Azadi%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mSDONOr.Pages.dEv&fp=randomized&type=ws&sni=MSdOnoR.pagEs.dEV#😍 @v2ray_configs_pool 😍`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.202.232:443?path=%2F%40Gozargah_Azadi%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=miumiumadrekose.pages.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#😍 @v2ray_configs_pool 😍`
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=%2FGozargah_Azadi%3Fed%3D2560&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#😍 @v2ray_configs_pool 😍`
-vless://104380d8-f859-421a-bd11-29b2c9fbfa99@104.17.83.58:443?path=%2F%40Gozargah_Azadi%3Fed%3D2560&security=tls&encryption=none&host=famil-5c8.pages.dev&fp=randomized&type=ws&sni=famil-5c8.pages.dev#😍 @v2ray_configs_pool 😍`
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?path=%2F%40Gozargah_Azadi%3Fed%3D2056&security=tls&encryption=none&host=7f905f51.garywelch.pages.dev&fp=randomized&type=ws&sni=7f905f51.garywelch.pages.dev#😍 @v2ray_configs_pool 😍`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpveWVqT1dnRGhUOVIzQmJYRTI4QnFJ@138.68.182.23:2248/?outline=1#😍 @v2ray_configs_pool 😍`
-vless://d8b09714-dd65-4e46-b767-44d3508f65ad@185.146.173.59:2052/?type=ws&path=%2FTelegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy%3Fed%3D2048&host=2.V2rayV2ray-_-_-V2ray.irantech.Org.&security=none#😍 @v2ray_configs_pool 😍`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOXhjeTA0bHBidmpLemtYemlFZ0t1@80.71.157.175:38211#😍 @v2ray_configs_pool 😍`
+vless://DIGIV2RAy@payphone.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.varzesh3.com.www.zula.ir.www.speedtest.net.www.chess.com.radiotehran.org.&type=ws#😍 @v2ray_configs_pool 😍`
+vless://- KING OF SPEED -@188.114.98.0:80?path=%2Fkingvrayng.shomalmegamall.ir.re%3Fed%3D8080&security=none&encryption=none&host=kingvrayng.shomalmegamall.ir&type=ws#😍 @v2ray_configs_pool 😍`
+vless://- KING OF SPEED -@185.146.173.122:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1,h3&authority=&fp=chrome&type=grpc&serviceName=@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY&sni=kingvrayng.shomalmegamall.ir#😍 @v2ray_configs_pool 😍`
+vless://- KING OF SPEED -@185.146.173.122:2083?path=@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY&security=tls&encryption=none&host=kingvrayng.shomalmegamall.ir&fp=chrome&type=ws&sni=kingvrayng.shomalmegamall.ir#😍 @v2ray_configs_pool 😍`
+vless://- KING OF SPEED -@185.146.173.25:2083?path=@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY&security=tls&encryption=none&host=kingvrayng.shomalmegamall.ir&fp=chrome&type=ws&sni=kingvrayng.shomalmegamall.ir#😍 @v2ray_configs_pool 😍`
