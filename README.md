@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/Space-00/V2ray_collector/main/config.txt
 **🔵Updates**
 --------------------
 
-<span style="font-size: 0.5em;">🔵</span> 7/28/2024 Update:
+<span style="font-size: 0.1em;">🔵</span> 7/28/2024 Update:
 
 From now on there won't be any repeated config
 
