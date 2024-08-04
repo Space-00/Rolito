@@ -13,10 +13,10 @@ https://raw.githubusercontent.com/Space-00/V2ray_collector/main/config.txt
 **🔵Updates**
 --------------------
 
-🟢 7/28/2024 Update:
+• 7/28/2024 Update:
 
 From now on there won't be any repeated config
 
-🟢 7/31/2024 Update:
+• 7/31/2024 Update:
 
 Fixed a tiny bug
