@@ -1,17 +1,17 @@
-vless://77725f26-6bc5-493c-b23e-f60f3ac4dcf2@66.235.200.62:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#👉🆔 @v2ray_configs_pool`
-vless://77725f26-6bc5-493c-b23e-f60f3ac4dcf2@66.235.200.100:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#👉🆔 @v2ray_configs_pool`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcmRlbTh4VFdBNzl4UTF5cnRoRlhD@136.244.81.170:20888#👉🆔 @v2ray_configs_pool`
-vmess://eyJhZGQiOiAiMTA0LjIwLjc0LjkxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRsMi4xMjcuMC4wLjEuXHUwNDMyXHUwNDNlXHUwNDQxXHUwNDQyXHUwNDM1XHUwNDM5Y29udHJvbC5cdTYzYTdcdTUyMzYua1x1MDQzZVx1MDQzZFx1MDQ0Mlx1MDQ0MFx1MDQzZVx1MDQzYlx1MDQ0Y1x1OGZiMlx1OTA1NFx1NjFmMlx1N2Y3MC5jXHUwNDMyXHUwNDNlXHUwNDM0XHUwNDNhXHUwNDMwaFx1MDQzZS53b25rYWNhcGl0YW5vLmJ1enouIiwgImlkIjogImIyNDEzYTVhLWQ1ZDAtNDQ0Ny1iNmQ3LTZkYmNkMjk4OWEzNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICI4MCIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=`
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=bpb.KmEVPs.iR&type=ws#👉🆔 @v2ray_configs_pool`
-vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443?path=%2Fsolid%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=solid.footballlovernews.com&type=ws&sni=solid.footballlovernews.com#👉🆔 @v2ray_configs_pool`
-vless://d9f50e1d-02cd-4b62-f3ec-ea5ae3e456ff@190.93.244.10:2095?path=%2F%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.boxiaa.shop.&type=ws#👉🆔 @v2ray_configs_pool`
-ss://YWVzLTI1Ni1nY206T1RkbE9XSXpNek5rTnpKa1ptWTJObU0yTW1aak9XRmlZekl3TWpobA@37.152.177.187:10092#👉🆔 @v2ray_configs_pool`
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#👉🆔 @v2ray_configs_pool`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.171.110.164:443#👉🆔 @v2ray_configs_pool`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.169.235.98:443#👉🆔 @v2ray_configs_pool`
-vless://telegram-id-ArV2ray@www.parsvds.ir:2095?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&security=none&encryption=none&host=10.v.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&type=ws#👉🆔 @v2ray_configs_pool`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUtFdGJoYTJES3NvSGFoMEE1SXUx@outline.de.outlinekeys.net:20888#👉🆔 @v2ray_configs_pool`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#👉🆔 @v2ray_configs_pool`
-ss://YWVzLTI1Ni1nY206T1RkbE9XSXpNek5rTnpKa1ptWTJObU0yTW1aak9XRmlZekl3TWpobA@37.152.182.86:10092#👉🆔 @v2ray_configs_pool`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQ3NIekx0dHlkV2p3MHBxUDROdUx5@167.99.216.236:50250/?outline=1#👉🆔 @v2ray_configs_pool`
-ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@45.145.42.70:25366#👉🆔 @v2ray_configs_pool`
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#👉🆔 @v2ray_configs_pool`
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#👉🆔 @v2ray_configs_pool`
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.150.152.112:8009#👉🆔 @v2ray_configs_pool`
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ny4yMTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9`
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@80.92.204.106:9011#👉🆔 @v2ray_configs_pool`
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@45.89.52.66:9037#👉🆔 @v2ray_configs_pool`
+vmess://eyJhZGQiOiAibnBtanMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImhkZnkxYzIuZnJlZWFpcmxhaW5lcy5jb20iLCAiaWQiOiAiNmI4ODBiMDctZTk1Mi00YzBiLWI0YTMtNmM5YWM0Y2Y5ZDNmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9RdnR2UGREWFhJbFNkWk1xbnV4RyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiaGRmeTFjMi5mcmVlYWlybGFpbmVzLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141:8080#👉🆔 @v2ray_configs_pool`
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@80.92.204.106:9094#👉🆔 @v2ray_configs_pool`
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@5.188.181.201:9041#👉🆔 @v2ray_configs_pool`
+vmess://eyJhZGQiOiAicy5tYXJrdHJlZC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYXZlaXJvci5jb20iLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhdmVpcm9yLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9`
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.112:3306#👉🆔 @v2ray_configs_pool`
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@5.188.181.201:9030#👉🆔 @v2ray_configs_pool`
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#👉🆔 @v2ray_configs_pool`
+vmess://eyJhZGQiOiAiMTcyLjY3LjE5Ni4xMTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9`
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.178:989#👉🆔 @v2ray_configs_pool`
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.150.152.112:5498#👉🆔 @v2ray_configs_pool`
