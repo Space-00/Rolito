@@ -1,14 +1,9 @@
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%3Fed%3D2048&security=none&encryption=none&host=fraud.chase&type=ws#💘 @v2ray_configs_pool 💘`
-vless://9fd36a9b-4d61-49b1-8986-6a95543e8b08@104.17.147.22:80?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=ws#💘 @v2ray_configs_pool 💘`
-vless://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ShAH-AGZ.PAGES.dEV&fp=chrome&type=ws&sni=ShAh-aGz.pAGes.DEV#💘 @v2ray_configs_pool 💘`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#💘 @v2ray_configs_pool 💘`
-vmess://eyJhZGQiOiAiNzcuMjIxLjE1Ny4xMzIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjg0YjRmZmY0LTU4ZjctNGM0OC1iODg4LThmMTMyMmE5MWZkOCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzAzNjUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM5OCBAdjJyYXlfY29uZmlnc19wb29sIFx1ZDgzZFx1ZGM5OCJ9`
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542?security=none&encryption=none&headerType=none&type=tcp#💘 @v2ray_configs_pool 💘`
-vless://555d8f99-edeb-4587-8d90-ada18a1c663b@85.9.108.12:9090?path=%2F&security=none&encryption=none&type=ws#💘 @v2ray_configs_pool 💘`
-vless://SAVTEAM5@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=SAV.TEAM&fp=firefox&type=ws&sni=speedtest.net#💘 @v2ray_configs_pool 💘`
-vless://Telegram-%69%70%56%32%52%61%79-daw@www.speedtest.net:80?path=/Telegram-%69%70%56%32%52%61%79?ed%3D2048&security=none&encryption=none&host=c.1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#💘 @v2ray_configs_pool 💘`
-vless://Telegram-%69%70%56%32%52%61%79-fax@www.speedtest.net:80?path=/Telegram-%69%70%56%32%52%61%79?ed%3D2048&security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#💘 @v2ray_configs_pool 💘`
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed&security=tls&encryption=none&host=mc0.pages.dev&type=ws&sni=pages.dev#💘 @v2ray_configs_pool 💘`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘`
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.176.179:443?path=%2FRBIhXPoYCj8vKSnZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BoLD-hAt-C7B7.AFB3545a9f.wORKErs.deV&fp=randomized&type=ws&sni=BOlD-haT-C7b7.aFb3545A9F.wORKeRs.deV#💘 @v2ray_configs_pool 💘`
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%40Selinc%2F%3Fed%3D2048&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💘 @v2ray_configs_pool 💘`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#💘 @v2ray_configs_pool 💘`
 vless://d82e1a8b-3b01-43f0-88e3-515f6720f6f7@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc4.lebasnoo.ir.&type=ws#💘 @v2ray_configs_pool 💘`
-vless://f8712daa-b04e-4bf0-9a70-9491af07ff51@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc3.lebasnoo.ir.&type=ws#💘 @v2ray_configs_pool 💘`
-vless://TELEGRAM-%53%65%72%76%65%72%4E%65%74%74@[2a01:4f8:c17:2cda::1]:29542?security=none&encryption=none&headerType=none&type=tcp#💘 @v2ray_configs_pool 💘`
-vless://TELEGRAM-%53%65%72%76%65%72%4E%65%74%74@[2a01:4f8:c17:eaf8::1]:31407?security=none&encryption=none&headerType=none&type=tcp#💘 @v2ray_configs_pool 💘`
+vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?path=Tel-%40Selinc%2F%3Fed%3D2560&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&fp=random&type=ws&sni=pardazesh-tgws.pages.dev#💘 @v2ray_configs_pool 💘`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#💘 @v2ray_configs_pool 💘`
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#💘 @v2ray_configs_pool 💘`
