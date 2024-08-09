@@ -1,10 +1,12 @@
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:443?path=%2FXV2ray%3Fed%3D2560&security=tls&encryption=none&host=mc0.pages.dev&type=ws&sni=pages.dev#💕 @v2ray_configs_pool 💕`
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.194.133:443?path=%40Selinc%2F%3Fed%3D2048&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#💕 @v2ray_configs_pool 💕`
-vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.132:18101?security=none&encryption=none&headerType=http&type=tcp#💕 @v2ray_configs_pool 💕`
-vmess://eyJhZGQiOiAiMTYyLjE1OS4xMjkuMTI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm1jMC5wYWdlcy5kZXYiLCAiaWQiOiAiYTE2NTVmNTEtMWUyMC00YTkyLThhMTEtYjdjYTMwYTdhMzUzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9mMiIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAicGFnZXMuZGV2IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM5NSBAdjJyYXlfY29uZmlnc19wb29sIFx1ZDgzZFx1ZGM5NSJ9`
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D2560&security=tls&encryption=none&host=mc0.pages.dev&fp=chrome&type=ws&sni=pages.dev#💕 @v2ray_configs_pool 💕`
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#💕 @v2ray_configs_pool 💕`
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D2560&security=tls&encryption=none&host=mc0.pages.dev&type=ws&sni=pages.dev#💕 @v2ray_configs_pool 💕`
-vless://b34d8857-22d3-432d-adb2-48f2f3192f5b@hidden-ekcyqqhn8sts5kxuxj.ssslamalico123.online:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&host=hidden-ekcyqqhn8sts5kxuxj.ssslamalico123.online&fp=chrome&type=ws&sni=hidden-ekcyqqhn8sts5kxuxj.ssslamalico123.online#💕 @v2ray_configs_pool 💕`
-vless://99177d34-9855-47ac-ac7d-6713c6a5c889@hidden-ekcyqqhn8sts5kxuxj.ssslamalico123.online:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&host=hidden-ekcyqqhn8sts5kxuxj.ssslamalico123.online&fp=chrome&type=ws&sni=hidden-ekcyqqhn8sts5kxuxj.ssslamalico123.online#💕 @v2ray_configs_pool 💕`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5T3VnRThKUDYySzdORmdOdDUzQ05B@outline.de.outlinekeys.net:20888#💕 @v2ray_configs_pool 💕`
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=%2FXV2ry2%3Fed%3D2560&security=none&encryption=none&host=w.w.w.speedtest.net.xn--g28h.dns-dynamic.net.&type=ws#💕 @v2ray_configs_pool 💕`
+vless://6a99725d-2af8-d27c-cef5-302fbbe54c07@81.12.92.130:18989?security=none&encryption=none&headerType=http&type=tcp#💕 @v2ray_configs_pool 💕`
+vless://0455d5d8-5ee0-45b6-92a6-a42c7b879fee@www.parspack.com:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=8.v2.c.www.speedtest.net.debian.org.academigroUp.ir.&type=httpupgrade#💕 @v2ray_configs_pool 💕`
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.172:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#💕 @v2ray_configs_pool 💕`
+vless://a3618e39-14f6-4688-8d98-c9b52ae84948@www.speedtest.net:80?path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&encryption=none&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#💕 @v2ray_configs_pool 💕`
+vless://Parsashonam-32@104.24.185.137:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.DigehKhastehShodamAzBasDamanehKharidam.BlOG.&type=ws#💕 @v2ray_configs_pool 💕`
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?path=%2Ff6QE1QHz0sEFAUIO%2FMjAyLjYxLjE5My4yNDg%3D%3Fed%3D2560&security=none&encryption=none&host=bpb.KmEVPs.iR&type=ws#💕 @v2ray_configs_pool 💕`
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:8880?path=%2Ff6QE1QH#💕 @v2ray_configs_pool 💕`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#💕 @v2ray_configs_pool 💕`
+vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=%2FTELEGRAM%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-chf.pages.dev&type=ws&sni=bpb-worker-panel-chf.pages.dev#💕 @v2ray_configs_pool 💕`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUjRtNEM2UE51NXFQY09ZM2ltQnNv@138.68.182.23:2248/?outline=1#💕 @v2ray_configs_pool 💕`
